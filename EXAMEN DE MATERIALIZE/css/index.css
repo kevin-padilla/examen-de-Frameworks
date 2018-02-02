@@ -1,0 +1,40 @@
+body{
+  font-family: 'Noto Serif', serif;
+  background-image:url("https://static.vix.com/es/sites/default/files/styles/large/public/imj/nuestrorumbo/T/Turismo%20en%20los%20rios%20mas%20grandes%20del%20mundo%202.jpg?itok=o_K-mr21");
+  background-color: blue;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.logo{
+  width: 150px;
+  margin-top: 1.0rem;
+  margin-left: 4.0rem;
+  float: left;
+}
+.navegacion{
+  margin-top: 0.4rem;
+}
+.logan{
+  margin-top: 4.5rem;
+}
+.imagen1{
+  width: 100%;
+  height: 100%;
+}
+.central{
+  height: 600px;
+}
+
+.boton{
+  border-radius: 20px;
+  font-size: 10px;
+}
+.imagencir{
+  width: 50%;
+  margin-left: 20%;
+}
+.texto{
+  text-align: center;
+}

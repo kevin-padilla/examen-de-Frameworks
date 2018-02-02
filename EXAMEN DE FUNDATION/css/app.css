@@ -1,0 +1,54 @@
+.gastro-body{
+  font-family: 'Roboto Slab', serif;
+  background-image:url("https://upload.wikimedia.org/wikipedia/commons/f/f1/Sevilla_Alcazar_03.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h6{
+  color: green;
+}
+
+.central{
+background-color:rgba(30,238,13,0.5);
+}
+.env-btn{
+text-align: right;
+}
+.texto-descrip{
+  border-color: green !important;
+  border: 1px solid;
+  padding: 10px;
+}
+
+.color{
+  color: green;
+  display: inline-block;
+}
+.tamaño{
+  font-size: 20px;
+}
+.imagen1{
+  height: 100%;
+  width: 100%;
+  padding-bottom: 20px;
+}
+.imagen2{
+  height: 60px;
+  width: 60px;
+}
+.botones{
+  color: green !important;
+  border: 2px solid;
+  border-radius: 5px;
+  background-color: none;
+}
+.lista{
+  padding-left: 30px;
+  margin-top: 5px;
+  color: green;
+}
+.comentario{
+  padding-right: 50px;
+}
